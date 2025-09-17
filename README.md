@@ -25,5 +25,5 @@ f(n)=g(n)+h(n)
 g(n) is the cost of the path so far, which can be defined as the number of moves made to reach the current state.
 
 h(n) is the heuristic value, which is the number of attacking queen pairs.
-https://youtu.be/b4TNtq_T1aE
+
 
