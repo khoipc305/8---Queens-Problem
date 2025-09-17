@@ -4,7 +4,7 @@ Assignment - 1
 
 2. Use a heuristic function for the 8-queens problem that estimates how close a given board state is to a solution. The goal state is one where no queens are attacking each other.
 
- 
+ https://github.com/user-attachments/assets/7f1878ed-c1e4-4209-b0a9-62c4871d0b27
 
 Example Heuristic Function: Number of attacking pairs of queens
 
@@ -26,3 +26,4 @@ g(n) is the cost of the path so far, which can be defined as the number of moves
 
 h(n) is the heuristic value, which is the number of attacking queen pairs.
 https://youtu.be/b4TNtq_T1aE
+
